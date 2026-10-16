@@ -11,3 +11,4 @@
 - Álvaro Rodríguez Pulido
 
 Como canal de comunicaciones utilizaremos google chat.
+--
